@@ -1,0 +1,2 @@
+# Image-Denoising-Using-LambdaNetworks
+In our work we dealt with the popular task of image denoising and try to cope with it through adaption of Lambda-layers. Lambda-layers is a new approach of self-attention mechanism which we used as a main part in our model for accomplishing our goal. By that we are showing that we had a quiet success in image-denoising in terms of memory, PSNR and SSIM compared to more classical models that demand much more memory and epochs to train.
