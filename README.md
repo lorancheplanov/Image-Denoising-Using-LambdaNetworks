@@ -2,21 +2,21 @@
 In our work we dealt with the popular task of image denoising and tried to cope with it through adaptation of lambda layers. “Lambda layers” is a new approach of self-attention mechanism that bypasses the expensive memory usage requirements of attention maps and makes an efficient use of RAM. It was used as a main part in our model for accomplishing our goal and achieved success in terms of memory, PSNR and SSIM compared to more classical models that demand much more memory and epochs to train. 
 
 
-**Data**
+## **Data**
 
 The data we used to examine our model is the CIFAR-10. It consists of 32x32 color images in 10 different classes. There are a total of 60000 images in the dataset: 50000 for training and 10000 for test. In addition, in order to visualize our results with better resolution and for gaining another sight of results from a different “dataset”, a few images were downloaded from the web and resized in our model from their high resolution to 512x512. 
 
 
-**Architecture**
+## **Architecture**
 
 ![image](https://user-images.githubusercontent.com/78099481/109872200-c4847e00-7c74-11eb-978f-44bc0ec44af1.png)
 
 
-**The comparable models**
+## **The comparable models**
 1. DnCNN
 2. Convolutional auto-encoder
 
-**Results**
+## **Results**
 Table of parameters:
 
 ![image](https://user-images.githubusercontent.com/78099481/109872994-d3b7fb80-7c75-11eb-90b0-0a7ad6c443a0.png)
