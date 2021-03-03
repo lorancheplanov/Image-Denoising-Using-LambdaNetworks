@@ -26,7 +26,7 @@ Table of parameters:
 
 Relation between PSNR, models’ number of parameters and the encoders’ output channels of our model:
 
-![image](https://user-images.githubusercontent.com/78099481/109872573-4674a700-7c75-11eb-8039-a700175908d8.png)
+![image](https://user-images.githubusercontent.com/78099481/109882949-54c9bf80-7c83-11eb-86d0-1c34a9efcfc6.png)
 
 
 
