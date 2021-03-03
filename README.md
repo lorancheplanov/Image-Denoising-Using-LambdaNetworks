@@ -50,4 +50,5 @@ Visualization of models performance. The images were resized from higher dimensi
 ![image](https://user-images.githubusercontent.com/78099481/109872875-aec38880-7c75-11eb-96dc-f27466213d88.png)
 
 
+**For full details and explanations - the project paper is attached**
 
